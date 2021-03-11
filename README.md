@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Add to Cydia (cydia://url/https://cydia.saurik.com/api/share#?source=https://ivosey.github.io/CyVoseyRepo/)
 ## Header 2
 ### Header 3
 
