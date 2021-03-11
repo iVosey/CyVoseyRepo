@@ -1,1 +1,50 @@
+Package: com.creaturecoding.cyder
+Name: cyder
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts:
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Description: make Cydia shittier? idk
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+dev: CreatureSurvive <support@creaturecoding.com>
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=cyder
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.creaturecoding.cyder_0.1-3b_iphoneos-arm.deb
+Icon:
+Version: 0.1-3b
+Installed-Size: 164
 
+Package: com.creaturecoding.shuffle
+Name: shuffle
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Replaces: com.cpdigitaldarkroom.placeholder
+Conflicts: com.cpdigitaldarkroom.placeholder
+Architecture: iphoneos-arm
+Description: Mix up your preferences
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Tag: purpose::extension, compatible_min::ios10
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.creaturecoding.shuffle_1.3.1_iphoneos-arm.deb
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Version: 1.3.1
+Installed-Size: 1908
+
+Package: net.limneos.simpleactivationactions
+Name: SimpleActivationActions
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: Tweaks
+Version: 0.1-1
+Installed-Size: 104
