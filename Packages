@@ -63,3 +63,53 @@ Filename: https://ivosey.github.io/CyVoseyRepo/debs/net.tateu.debkeeper12_1.0.7_
 Section: Tweaks
 Version: 1.0.7
 Installed-Size: 324
+
+Author: ichitaso
+Maintainer: ichitaso
+Name: AutoBrightnessToggle (CCSupport)
+Package: com.ichitaso.autobrightness11
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.ichitaso.autobrightness11_0.1-4-1.deb
+Section: Addons (ControlCenter)
+Architecture: iphoneos-arm
+Description: Turn on / off Auto-Brightness from the control center.
+Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/ControlCenter/Bundles/AutoBrightness.bundle/SettingsIcon@2x.png
+Version: 0.1-4-1
+Installed-Size: 120
+
+Author: ichitaso
+Maintainer: ichitaso
+Package: com.ichitaso.primalfolder2
+Name: PrimalFolder 2
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.ichitaso.primalfolder2_0.0.9.deb
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Display to folder as icon and launch action for Folders
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
+Version: 0.0.9
+Installed-Size: 400
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML Việt Nam
+Version: 2.0~beta9.1
+Architecture: iphoneos-arm
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Author: Matt Clarke
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.matchstic.xenhtml_2.0~beta9.1.deb
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
