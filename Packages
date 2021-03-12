@@ -117,7 +117,7 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 Package: com.icraze.bettersettingsfix
 Name: BetterSettings Fix
 Version: 1.0
-Section: Tweaks 
+Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Installed-Size: 136
@@ -172,3 +172,30 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Tag: purpose::extension
+
+Package: com.ryannair05.cylinder
+Name: Cylinder Reborn
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Description: Make your icons dance
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Author: Ryan Nair & Reed Weichler <ryannairtweaks@gmail.com>
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.ryannair05.cylinder_1.0.2_iphoneos-arm.deb
+Section: Tweaks
+Version: 1.0.2
+Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
+Depiction: https://chariz.com/get/cylinder-reborn
+Tag: compatible_min::ios11.0
+Installed-Size: 1380
+
+Package: com.spark.circlesettings
+Name: CircleSettings
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make all icons in the settings application circular!
+Maintainer: Spark
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.spark.circlesettings_1.0.1_iphoneos-arm.deb
+Author: Spark
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 248
