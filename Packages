@@ -117,7 +117,7 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 Package: com.icraze.bettersettingsfix
 Name: BetterSettings Fix
 Version: 1.0
-Section: Tweaks (Settings)
+Section: Tweaks 
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Installed-Size: 136
