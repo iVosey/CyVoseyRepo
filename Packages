@@ -45,6 +45,7 @@ Description: Simple Activation Actions
  Handles StatusBar actions for simple activation events
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Author: Elias Limneos <limneoselias@gmail.com>
+Filename: https://ivosey.github.io/CyVoseyRepo/debs/net.limneos.simpleactivationactions_0.1-1_iphoneos-arm.deb
 Section: Tweaks
 Version: 0.1-1
 Installed-Size: 104
