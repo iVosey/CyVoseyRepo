@@ -71,9 +71,9 @@ Package: com.ichitaso.autobrightness11
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
 Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.ichitaso.autobrightness11_0.1-4-1.deb
-Section: Addons (ControlCenter)
+Section: Addons
 Architecture: iphoneos-arm
-Description: Turn on / off Auto-Brightness from the control center.
+Description: Turn on / off Auto-Brightness from the control center.(ControlCenter)
 Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
 Homepage: https://ichitaso.com
 dev: ichitaso
@@ -130,11 +130,11 @@ Package: com.level3tjg.centeredlargetitles
 Name: CenteredLargeTitles
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Self explanatory
+Description: Self explanatory (System)
 Maintainer: level3tjg
 Author: level3tjg
 Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.level3tjg.centeredlargetitles_1.0.4_iphoneos-arm.deb
-Section: Tweaks (System)
+Section: Tweaks
 Version: 1.0.4
 Installed-Size: 136
 
