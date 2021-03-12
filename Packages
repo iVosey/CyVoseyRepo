@@ -117,7 +117,7 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 Package: com.icraze.bettersettingsfix
 Name: BetterSettings Fix
 Version: 1.0
-Section: Settings (Settings)
+Section: Tweaks (Settings)
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Installed-Size: 136
@@ -125,3 +125,15 @@ Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.icraze.bettersettingsfix
 Author: iCraze
 Maintainer: iCraze
 Description: Fix BetterSettings Header Bug On iOS 13.
+
+Package: com.level3tjg.centeredlargetitles
+Name: CenteredLargeTitles
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Self explanatory
+Maintainer: level3tjg
+Author: level3tjg
+Filename: https://ivosey.github.io/CyVoseyRepo/com.level3tjg.centeredlargetitles_1.0.4_iphoneos-arm.deb
+Section: Tweaks (System)
+Version: 1.0.4
+Installed-Size: 136
