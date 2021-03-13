@@ -16,7 +16,7 @@ Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Description: Make your icons dance
 Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Author: Ryan Nair & Reed Weichler <ryannairtweaks@gmail.com>
-Section: Tweaks
+Section: Tweaks 
 Version: 1.0.2
 Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: https://chariz.com/get/cylinder-reborn
@@ -49,7 +49,7 @@ Architecture: iphoneos-arm
 Description: Settings your way
 Maintainer: midnightchips
 Author: midnightchips
-Section: Tweaks
+Section: Tweaks (Settings)
 SileoDepiction: https://midnightchips.me/sileo/bettersettings.json
 Icon: https://midnightchips.me/packages/bettersettings/PM.png
 Depiction: https://midnightchips.me/depiction/?bettersettings
@@ -75,14 +75,14 @@ Architecture: iphoneos-arm
 Description: Self explanatory
 Maintainer: level3tjg
 Author: level3tjg
-Section: Tweaks
+Section: Utilities
 Version: 1.0.4
 Installed-Size: 136
 
 Package: com.icraze.bettersettingsfix
 Name: BetterSettings Fix
 Version: 1.0
-Section: Tweaks
+Section: Tweaks (Settings)
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Installed-Size: 136
