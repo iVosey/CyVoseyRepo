@@ -68,3 +68,21 @@ Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, ws.hbang.common
 Conflicts: com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.yourepo.i0s-tweak3r-betas.foldercontrollerxiii, com.i0stweak3r.foldercontrollerxiii, com.i0stweak3r.foldercontroller14
 Maintainer: i0s_tweak3r <djvs23@icloud.com>
+
+Package: com.creaturecoding.cyder
+Name: cyder
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts:
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Description: make Cydia shittier? idk
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks (Cydia)
+dev: CreatureSurvive <support@creaturecoding.com>
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=cyder
+Icon:
+Version: 0.1-3b
+Installed-Size: 164
