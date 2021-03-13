@@ -4,13 +4,13 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Make all icons in the settings application circular!
 Maintainer: Spark
-Author: Spark
+Author: Spark ~
 Section: Settings
 Version: 1.0.1
 Installed-Size: 248
 
 Package: com.ryannair05.cylinder
-Name: Cylinder Reborn
+Name: Cylinder Reborn ~
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Description: Make your icons dance
