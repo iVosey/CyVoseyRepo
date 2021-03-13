@@ -13,3 +13,21 @@ Depiction: https://chariz.com/buy/multipla
 Tag: cydia::commercial, compatible_min::ios12.0
 Version: 2.1.2-1
 Installed-Size: 2976
+
+Name: Mini vMac
+Package: net.namedfork.minivmac
+Priority: optional
+Depends: firmware (>= 7.0)
+Version: 2.2.3
+Architecture: iphoneos-arm
+Description: Mini vMac Mac emulator
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minivmacDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minivmacDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios9
+Installed-Size: 3003
+dev: namedfork
+Icon: file:///Applications/Mini%20vMac.app/AppIcon29x29@2x.png
