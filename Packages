@@ -31,3 +31,18 @@ Tag: purpose::uikit, compatible::ios9
 Installed-Size: 3003
 dev: namedfork
 Icon: file:///Applications/Mini%20vMac.app/AppIcon29x29@2x.png
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=addsourceDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=addsourceDp
+Author: yuosaf01 & 3bod_syr <3body373737@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: AddSource
+Package: com.yuosaf01.addsource
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Section: Tweaks
+Installed-Size: 1094
+Version: 3.2
+Architecture: iphoneos-arm
+Description: Add the copied URL to Cydia sources automatically
+dev: yuosaf01
+Tag: purpose::extension
