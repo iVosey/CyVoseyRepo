@@ -1,1 +1,15 @@
-
+Package: xyz.burritoz.thomz.multipla
+Name: Multipla
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.peppa.Primo, com.eswick.harbor7, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Architecture: iphoneos-arm
+Description: Power to your Dock
+Maintainer: Thomz and burrit0z <burrit0ztweaks@gmail.com>
+Author: Thomz and burrit0z <burrit0ztweaks@gmail.com>
+Section: Tweaks
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Depiction: https://chariz.com/buy/multipla
+Tag: cydia::commercial, compatible_min::ios12.0
+Version: 2.1.2-1
+Installed-Size: 2976
