@@ -66,7 +66,7 @@ Name: AutoBrightnessToggle (CCSupport)
 Package: com.ichitaso.autobrightness11
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Section: Addons
+Section: Addons (CCSupport)
 Architecture: iphoneos-arm
 Description: Turn on / off Auto-Brightness from the control center.(ControlCenter)
 Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
@@ -117,7 +117,6 @@ Installed-Size: 136
 Author: iCraze
 Maintainer: iCraze
 Description: Fix BetterSettings Header Bug On iOS 13.
-
 Package: com.level3tjg.centeredlargetitles
 Name: CenteredLargeTitles
 Depends: mobilesubstrate
@@ -125,7 +124,7 @@ Architecture: iphoneos-arm
 Description: Self explanatory (System)
 Maintainer: level3tjg
 Author: level3tjg
-Section: Tweaks
+Section: Tweaks (Settings)
 Version: 1.0.4
 Installed-Size: 136
 
@@ -136,7 +135,7 @@ Architecture: iphoneos-arm
 Description: Settings your way
 Maintainer: midnightchips
 Author: midnightchips
-Section: Tweaks
+Section: Tweaks (Settings)
 SileoDepiction: https://midnightchips.me/sileo/bettersettings.json
 Icon: https://midnightchips.me/packages/bettersettings/PM.png
 Depiction: https://midnightchips.me/depiction/?bettersettings
@@ -151,7 +150,7 @@ Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Provides: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
 Conflicts: com.ioscreatix.silo
-Section: Tweaks
+Section: Tweaks (CC modules)
 Installed-Size: 356
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -203,7 +202,7 @@ Depiction: https://chariz.com/get/cylinder-reborn
 Tag: compatible_min::ios11.0
 Installed-Size: 1380
 
-Package: io.github.ivosey.i0s-tweak3r-betas.foldercontroller14
+Package: com.yourepo.i0s-tweak3r-betas.foldercontroller14
 Name: FolderController14
 Version: 1.0.0beta-30
 Architecture: iphoneos-arm
