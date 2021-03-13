@@ -215,11 +215,11 @@ Installed-Size: 324
 
 Author: ichitaso
 Maintainer: ichitaso
-Package: ivosey.github.io.primalfolderII
+Package: ivosey.github.io.primalfolder2
 Name: PrimalFolder 2
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
-Replaces: ivosey.github.io.primalfolderII
+Replaces: ivosey.github.io.primalfolder2
 Section: Tweaks (Preferences)
 Architecture: iphoneos-arm
 Description: Display to folder as icon and launch action for Folders
