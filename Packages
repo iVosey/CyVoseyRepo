@@ -213,3 +213,15 @@ Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: https://chariz.com/get/cylinder-reborn
 Tag: compatible_min::ios11.0
 Installed-Size: 1380
+
+Package: com.yourepo.i0s-tweak3r-betas.foldercontroller14
+Name: FolderController14
+Version: 1.0.0beta-30
+Architecture: iphoneos-arm
+Description: An awesome tweak for making custom layouts, color blurred backgrounds, adjusting the opacity, size, corner radius, gradient colors, and other properties of folders, their icons, and background views. It has color pickers for open and closed folders, their borders, and sliders to set thickness of borders. FolderController14 also offers an image picker to add custom images inside folders, spotlight, the App Library, and it has an alpha slider to adjust how much or little color goes on top of it.  Multi-select option for fast re-arranging of icons, folders and widgets plus other useful features. Homescreen layouts and several other features are still a WIP BETA.
+Author: i0s_tweak3r <djvs23@icloud.com>
+Filename: ./debs/com.yourepo.i0s-tweak3r-betas.foldercontroller14_1.0.0beta-30.deb
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, ws.hbang.common
+Conflicts: com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.yourepo.i0s-tweak3r-betas.foldercontrollerxiii, com.i0stweak3r.foldercontrollerxiii, com.i0stweak3r.foldercontroller14
+Maintainer: i0s_tweak3r <djvs23@icloud.com>
