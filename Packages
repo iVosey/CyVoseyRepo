@@ -32,7 +32,6 @@ Homepage: https://creaturecoding.com/
 Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 Tag: purpose::extension, compatible_min::ios10
-Filename: ./debs/com.creaturecoding.shuffle_1.3.1_iphoneos-arm.deb
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Version: 1.3.1
 Installed-Size: 1908
@@ -44,7 +43,6 @@ Architecture: iphoneos-arm
 Description: Simple Activation Actions - Handles StatusBar actions for simple activation events
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Author: Elias Limneos <limneoselias@gmail.com>
-Filename: ./debs/net.limneos.simpleactivationactions_0.1-1_iphoneos-arm.deb
 Section: Tweaks
 Version: 0.1-1
 Installed-Size: 104
@@ -58,7 +56,6 @@ Description: Disable deletion of deb files in Cydia, Sileo and Zebra.
 Maintainer: tateu (Josh Harris) <tateu@tateu.net>
 Author: tateu (Josh Harris) <tateu@tateu.net>
 Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
-Filename: ./debs/net.tateu.debkeeper12_1.0.7_iphoneos-arm.deb
 Section: Tweaks
 Version: 1.0.7
 Installed-Size: 324
@@ -69,7 +66,6 @@ Name: AutoBrightnessToggle (CCSupport)
 Package: com.ichitaso.autobrightness11
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: ./debs/com.ichitaso.autobrightness11_0.1-4-1.deb
 Section: Addons
 Architecture: iphoneos-arm
 Description: Turn on / off Auto-Brightness from the control center.(ControlCenter)
@@ -88,7 +84,6 @@ Name: PrimalFolder 2
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: ./debs/com.ichitaso.primalfolder2_0.0.9.deb
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Display to folder as icon and launch action for Folders
@@ -106,7 +101,6 @@ Version: 2.0~beta9.1
 Architecture: iphoneos-arm
 Description: Thêm tiện ích lên màn hình chính và màn hình khoá
 Author: Matt Clarke
-Filename: ./debs/com.matchstic.xenhtml_2.0~beta9.1.deb
 Section: Tweaks
 Depends: mobilesubstrate
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
@@ -120,7 +114,6 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Installed-Size: 136
-Filename: ./debs/com.icraze.bettersettingsfix_1.0_iphoneos-arm.deb
 Author: iCraze
 Maintainer: iCraze
 Description: Fix BetterSettings Header Bug On iOS 13.
@@ -132,7 +125,6 @@ Architecture: iphoneos-arm
 Description: Self explanatory (System)
 Maintainer: level3tjg
 Author: level3tjg
-Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.4_iphoneos-arm.deb
 Section: Tweaks
 Version: 1.0.4
 Installed-Size: 136
@@ -145,7 +137,6 @@ Description: Settings your way
 Maintainer: midnightchips
 Author: midnightchips
 Section: Tweaks
-Filename: ./debs/com.midnightchips.bettersettings_0.1.3_iphoneos-arm.deb
 SileoDepiction: https://midnightchips.me/sileo/bettersettings.json
 Icon: https://midnightchips.me/packages/bettersettings/PM.png
 Depiction: https://midnightchips.me/depiction/?bettersettings
@@ -165,7 +156,6 @@ Installed-Size: 356
 Version: 1.3.1
 Architecture: iphoneos-arm
 Description: Support tweak for CC modules!
-Filename: ./debs/com.opa334.ccsupport_1.3.1_iphoneos-arm.deb
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -193,7 +183,6 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Make all icons in the settings application circular!
 Maintainer: Spark
-Filename: ./debs/com.spark.circlesettings_1.0.1_iphoneos-arm.deb
 Author: Spark
 Section: Tweaks
 Version: 1.0.1
@@ -214,13 +203,12 @@ Depiction: https://chariz.com/get/cylinder-reborn
 Tag: compatible_min::ios11.0
 Installed-Size: 1380
 
-Package: com.yourepo.i0s-tweak3r-betas.foldercontroller14
+Package: io.github.ivosey.i0s-tweak3r-betas.foldercontroller14
 Name: FolderController14
 Version: 1.0.0beta-30
 Architecture: iphoneos-arm
 Description: An awesome tweak for making custom layouts, color blurred backgrounds, adjusting the opacity, size, corner radius, gradient colors, and other properties of folders, their icons, and background views. It has color pickers for open and closed folders, their borders, and sliders to set thickness of borders. FolderController14 also offers an image picker to add custom images inside folders, spotlight, the App Library, and it has an alpha slider to adjust how much or little color goes on top of it.  Multi-select option for fast re-arranging of icons, folders and widgets plus other useful features. Homescreen layouts and several other features are still a WIP BETA.
 Author: i0s_tweak3r <djvs23@icloud.com>
-Filename: ./debs/com.yourepo.i0s-tweak3r-betas.foldercontroller14_1.0.0beta-30.deb
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, ws.hbang.common
 Conflicts: com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.yourepo.i0s-tweak3r-betas.foldercontrollerxiii, com.i0stweak3r.foldercontrollerxiii, com.i0stweak3r.foldercontroller14
