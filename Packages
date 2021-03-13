@@ -198,3 +198,18 @@ Author: Spark
 Section: Tweaks
 Version: 1.0.1
 Installed-Size: 248
+
+Package: com.ryannair05.cylinder
+Name: Cylinder Reborn
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Description: Make your icons dance
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Author: Ryan Nair & Reed Weichler <ryannairtweaks@gmail.com>
+Filename: ./debs/com.dave1482.powerapp_6.0_iphoneos-arm.deb
+Section: Tweaks
+Version: 1.0.2
+Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
+Depiction: https://chariz.com/get/cylinder-reborn
+Tag: compatible_min::ios11.0
+Installed-Size: 1380
