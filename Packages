@@ -16,7 +16,7 @@ Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Description: Make your icons dance
 Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Author: Ryan Nair & Reed Weichler <ryannairtweaks@gmail.com>
-Section: Tweaks 
+Section: Tweaks
 Version: 1.0.2
 Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
 Depiction: https://chariz.com/get/cylinder-reborn
@@ -212,3 +212,21 @@ Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
 Section: Tweaks
 Version: 1.0.7
 Installed-Size: 324
+
+Author: ichitaso
+Maintainer: ichitaso
+Package: ivosey.github.io.primalfolderII
+Name: PrimalFolder 2
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: ivosey.github.io.primalfolderII
+Section: Tweaks (Preferences)
+Architecture: iphoneos-arm
+Description: Display to folder as icon and launch action for Folders
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
+Version: 0.0.9-1
+Installed-Size: 400
