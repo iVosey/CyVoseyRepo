@@ -12,7 +12,7 @@ Section: Tweaks
 dev: CreatureSurvive <support@creaturecoding.com>
 Homepage: https://creaturecoding.com/
 Depiction: https://creaturecoding.com/?page=depiction&id=cyder
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.creaturecoding.cyder_0.1-3b_iphoneos-arm.deb
+Filename: ./debs/com.creaturecoding.cyder_0.1-3b_iphoneos-arm.deb
 Icon:
 Version: 0.1-3b
 Installed-Size: 164
@@ -32,7 +32,7 @@ Homepage: https://creaturecoding.com/
 Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 Tag: purpose::extension, compatible_min::ios10
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.creaturecoding.shuffle_1.3.1_iphoneos-arm.deb
+Filename: ./debs/com.creaturecoding.shuffle_1.3.1_iphoneos-arm.deb
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Version: 1.3.1
 Installed-Size: 1908
@@ -44,7 +44,7 @@ Architecture: iphoneos-arm
 Description: Simple Activation Actions - Handles StatusBar actions for simple activation events
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Author: Elias Limneos <limneoselias@gmail.com>
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/net.limneos.simpleactivationactions_0.1-1_iphoneos-arm.deb
+Filename: ./debs/net.limneos.simpleactivationactions_0.1-1_iphoneos-arm.deb
 Section: Tweaks
 Version: 0.1-1
 Installed-Size: 104
@@ -58,7 +58,7 @@ Description: Disable deletion of deb files in Cydia, Sileo and Zebra.
 Maintainer: tateu (Josh Harris) <tateu@tateu.net>
 Author: tateu (Josh Harris) <tateu@tateu.net>
 Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/net.tateu.debkeeper12_1.0.7_iphoneos-arm.deb
+Filename: ./debs/net.tateu.debkeeper12_1.0.7_iphoneos-arm.deb
 Section: Tweaks
 Version: 1.0.7
 Installed-Size: 324
@@ -69,7 +69,7 @@ Name: AutoBrightnessToggle (CCSupport)
 Package: com.ichitaso.autobrightness11
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.ichitaso.autobrightness11_0.1-4-1.deb
+Filename: ./debs/com.ichitaso.autobrightness11_0.1-4-1.deb
 Section: Addons
 Architecture: iphoneos-arm
 Description: Turn on / off Auto-Brightness from the control center.(ControlCenter)
@@ -88,7 +88,7 @@ Name: PrimalFolder 2
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.ichitaso.primalfolder2_0.0.9.deb
+Filename: ./debs/com.ichitaso.primalfolder2_0.0.9.deb
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Display to folder as icon and launch action for Folders
@@ -106,7 +106,7 @@ Version: 2.0~beta9.1
 Architecture: iphoneos-arm
 Description: Thêm tiện ích lên màn hình chính và màn hình khoá
 Author: Matt Clarke
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.matchstic.xenhtml_2.0~beta9.1.deb
+Filename: ./debs/com.matchstic.xenhtml_2.0~beta9.1.deb
 Section: Tweaks
 Depends: mobilesubstrate
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
@@ -120,7 +120,7 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Installed-Size: 136
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.icraze.bettersettingsfix_1.0_iphoneos-arm.deb
+Filename: ./debs/com.icraze.bettersettingsfix_1.0_iphoneos-arm.deb
 Author: iCraze
 Maintainer: iCraze
 Description: Fix BetterSettings Header Bug On iOS 13.
@@ -132,7 +132,7 @@ Architecture: iphoneos-arm
 Description: Self explanatory (System)
 Maintainer: level3tjg
 Author: level3tjg
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.level3tjg.centeredlargetitles_1.0.4_iphoneos-arm.deb
+Filename: ./debs/com.level3tjg.centeredlargetitles_1.0.4_iphoneos-arm.deb
 Section: Tweaks
 Version: 1.0.4
 Installed-Size: 136
@@ -145,7 +145,7 @@ Description: Settings your way
 Maintainer: midnightchips
 Author: midnightchips
 Section: Tweaks
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.midnightchips.bettersettings_0.1.3_iphoneos-arm.deb
+Filename: ./debs/com.midnightchips.bettersettings_0.1.3_iphoneos-arm.deb
 SileoDepiction: https://midnightchips.me/sileo/bettersettings.json
 Icon: https://midnightchips.me/packages/bettersettings/PM.png
 Depiction: https://midnightchips.me/depiction/?bettersettings
@@ -165,7 +165,7 @@ Installed-Size: 356
 Version: 1.3.1
 Architecture: iphoneos-arm
 Description: Support tweak for CC modules!
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.opa334.ccsupport_1.3.1_iphoneos-arm.deb
+Filename: ./debs/com.opa334.ccsupport_1.3.1_iphoneos-arm.deb
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -179,7 +179,7 @@ Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Description: Make your icons dance
 Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Author: Ryan Nair & Reed Weichler <ryannairtweaks@gmail.com>
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.ryannair05.cylinder_1.0.2_iphoneos-arm.deb
+Filename: ./debs/com.ryannair05.cylinder_1.0.2_iphoneos-arm.deb
 Section: Tweaks
 Version: 1.0.2
 Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
@@ -193,7 +193,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Make all icons in the settings application circular!
 Maintainer: Spark
-Filename: https://ivosey.github.io/CyVoseyRepo/debs/com.spark.circlesettings_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.spark.circlesettings_1.0.1_iphoneos-arm.deb
 Author: Spark
 Section: Tweaks
 Version: 1.0.1
