@@ -1,4 +1,4 @@
-Package: com.spark.circlesettings
+Package: io.github.ivosey.circlesettings
 Name: CircleSettings
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -9,7 +9,7 @@ Section: Settings
 Version: 1.0.1
 Installed-Size: 248
 
-Package: com.ryannair05.cylinder
+Package: io.github.ivosey.cylinder
 Name: Cylinder Reborn
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
@@ -26,7 +26,7 @@ Installed-Size: 1380
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CCSupport
-Package: com.opa334.ccsupport
+Package: io.github.ivosey.ccsupport
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Provides: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
@@ -42,7 +42,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Tag: purpose::extension
 
-Package: com.midnightchips.bettersettings
+Package: io.github.ivosey.bettersettings
 Name: BetterSettings
 Depends: mobilesubstrate, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
@@ -56,7 +56,7 @@ Depiction: https://midnightchips.me/depiction/?bettersettings
 Version: 0.1.3
 Installed-Size: 1964
 
-Package: com.matchstic.xenhtml
+Package: io.github.ivosey.xenhtml
 Name: Xen HTML Việt Nam
 Version: 2.0~beta9.1
 Architecture: iphoneos-arm
@@ -68,7 +68,7 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenH
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
-Package: com.level3tjg.centeredlargetitles
+Package: io.github.ivosey.centeredlargetitles
 Name: CenteredLargeTitles
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -79,7 +79,7 @@ Section: Utilities
 Version: 1.0.4
 Installed-Size: 136
 
-Package: com.icraze.bettersettingsfix
+Package: io.github.ivosey.bettersettingsfix
 Name: BetterSettings Fix
 Version: 1.0
 Section: Tweaks (Settings)
@@ -90,7 +90,7 @@ Author: iCraze
 Maintainer: iCraze
 Description: Fix BetterSettings Header Bug On iOS 13.
 
-Package: com.dave1482.powerapp
+Package: io.github.ivosey.powerapp
 Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils
 Conflicts: com.dave1482.powerappbeta
 Name: PowerApp
@@ -107,7 +107,7 @@ Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, comp
 Author: ichitaso
 Maintainer: ichitaso
 Name: AutoBrightnessToggle (CCSupport)
-Package: com.ichitaso.autobrightness11
+Package: io.github.ivosey.autobrightness11
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
 Section: Addons (ControlCenter)
@@ -123,11 +123,11 @@ Installed-Size: 120
 
 Author: ichitaso
 Maintainer: ichitaso
-Package: com.ichitaso.primalfolder2
+Package: io.github.ivosey.primalfolder2
 Name: PrimalFolder 2
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
-Replaces: com.ichitaso.primalfolder2
+Replaces: io.github.ivosey.primalfolder2
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Display to folder as icon and launch action for Folders
@@ -139,7 +139,7 @@ Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
 Version: 0.0.9
 Installed-Size: 400
 
-Package: com.creaturecoding.shuffle
+Package: io.github.ivosey.shuffle
 Name: shuffle
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Depends: com.creaturecoding.libcspreferences
@@ -158,7 +158,7 @@ Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Version: 1.3.1
 Installed-Size: 1908
 
-Package: com.creaturecoding.cyder
+Package: io.github.ivosey.cyder
 Name: cyder
 Depends: firmware (>= 10.0), mobilesubstrate
 Conflicts:
@@ -176,7 +176,7 @@ Icon:
 Version: 0.1-3b
 Installed-Size: 164
 
-Package: com.yourepo.i0s-tweak3r-betas.foldercontroller14
+Package: io.github.ivosey.foldercontroller14
 Name: FolderController14
 Version: 1.0.0beta-30
 Architecture: iphoneos-arm
@@ -188,7 +188,7 @@ Conflicts: com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.yourepo.i0s-twe
 Maintainer: i0s_tweak3r <djvs23@icloud.com>
 
 
-Package: net.limneos.simpleactivationactions
+Package: io.github.ivosey.simpleactivationactions
 Name: SimpleActivationActions
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -200,7 +200,7 @@ Section: Tweaks
 Version: 0.1-1
 Installed-Size: 104
 
-Package: net.tateu.debkeeper12
+Package: io.github.ivosey.debkeeper12
 Name: DebKeeper12
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
 Conflicts: net.tateu.debkeeper
@@ -212,21 +212,3 @@ Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
 Section: Tweaks
 Version: 1.0.7
 Installed-Size: 324
-
-Author: ichitaso
-Maintainer: ichitaso
-Package: ivosey.github.io.primalfolder2
-Name: PrimalFolder 2
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
-Replaces: ivosey.github.io.primalfolder2
-Section: Tweaks (Preferences)
-Architecture: iphoneos-arm
-Description: Display to folder as icon and launch action for Folders
-Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
-homepage: https://ichitaso.com
-dev: ichitaso
-Tag: purpose::extension, compatible::ios13, compatible::ios14
-Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
-Version: 0.0.9
-Installed-Size: 400
