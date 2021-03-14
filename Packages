@@ -205,3 +205,16 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Section: Tweaks
 Version: 0.1-1
 Installed-Size: 104
+
+Package: net.tateu.debkeeper12
+Name: DebKeeper12
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.debkeeper
+Architecture: iphoneos-arm
+Description: Disable deletion of deb files in Cydia, Sileo and Zebra.
+Maintainer: tateu (iVosey) (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
+Section: Tweaks (save)
+Version: 1.0.7
+Installed-Size: 324
