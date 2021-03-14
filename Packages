@@ -282,3 +282,25 @@ Maintainer: LacertosusDeus <LacertosusThemes@gmail.com>
 Description: Showoff the music's artwork on the app...
 Depiction: https://lacertosusrepo.github.io/depictions/com.lacertosusrepo.beta/
 SileoDepiction: https://lacertosusrepo.github.io/depictions/com.lacertosusrepo.beta/
+
+Package: com.icraze.longercallbutton
+Name: LongerCallButton
+Version: 1.5
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 104
+Author: iCraze (iVosey)
+Maintainer: iCraze
+Description: Make The Call Button Longer!
+
+Package: com.icraze.bettersettingsfix
+Name: BetterSettings Fix
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: iCraze
+Maintainer: iCraze
+Description: Fix BetterSettings Header Bug On iOS 13-14.
