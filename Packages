@@ -269,3 +269,16 @@ Installed-Size: 168
 Author: MTAC <mtac@mtac.app>
 Maintainer: MTAC <mtac@mtac.app>
 Description: Pull down in Settings to toggle dark mode
+
+Package: com.lacertosusrepo.nowplayingicon
+Name: NowPlayingIcon
+Version: 1.3.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 168
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Maintainer: LacertosusDeus <LacertosusThemes@gmail.com>
+Description: Showoff the music's artwork on the app...
+Depiction: https://lacertosusrepo.github.io/depictions/com.lacertosusrepo.beta/
+SileoDepiction: https://lacertosusrepo.github.io/depictions/com.lacertosusrepo.beta/
