@@ -193,3 +193,15 @@ Author: Spark
 Section: Tweaks (Settings)
 Version: 1.0.1
 Installed-Size: 248
+
+Package: net.limneos.simpleactivationactions
+Name: SimpleActivationActions
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: Tweaks
+Version: 0.1-1
+Installed-Size: 104
