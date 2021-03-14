@@ -235,3 +235,25 @@ Section: Tweaks (CC Toggle)
 dev: ethanrdoesmc
 Tag: purpose::extension, compatible::ios13
 Icon: file:///Library/PreferenceBundles/DawnSettings.bundle/icon@2x.png
+
+Package: me.tomt000.fluidtabs
+Name: FluidTabs
+Version: 1.0.3
+Section: Tweaks (Springboard)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 480
+Author: TomT000
+Maintainer: TomT000
+Description: Swipe between tabs.
+
+Package: dev.hyper.playing
+Name: Playing
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.11), firmware (>=12.0)
+Architecture: iphoneos-arm
+Description: Get a notification when a new song starts!
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Author: ConorTheDev <conorthedev@gmail.com>
+Section: Tweaks
+Version: 1.3.1
+Installed-Size: 896
