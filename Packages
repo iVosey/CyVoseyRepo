@@ -79,7 +79,7 @@ Architecture: iphoneos-arm
 Description: make Cydia shittier? idk
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Author: CreatureSurvive <support@creaturecoding.com>
-Section: Tweaks 
+Section: Tweaks (Cydia)
 dev: CreatureSurvive <support@creaturecoding.com>
 Homepage: https://creaturecoding.com/
 Depiction: https://creaturecoding.com/?page=depiction&id=cyder
@@ -101,3 +101,14 @@ Architecture: iphoneos-arm
 Description: Add the copied URL to Cydia sources automatically
 dev: yuosaf01
 Tag: purpose::extension
+
+Package: com.icraze.bettersettingsfix
+Name: BetterSettings Fix
+Version: 1.0
+Section: Tweaks (Settings)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: iCraze (iVosey)
+Maintainer: iCraze
+Description: Fix BetterSettings Header Bug On iOS 13.
