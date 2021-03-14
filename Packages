@@ -123,3 +123,15 @@ Author: level3tjg
 Section: Tweaks (Settings)
 Version: 1.0.4
 Installed-Size: 136
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML Việt Nam
+Version: 2.0~beta9.1
+Architecture: iphoneos-arm
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Author: Matt Clarke
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
