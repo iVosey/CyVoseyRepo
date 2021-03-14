@@ -304,3 +304,166 @@ Installed-Size: 136
 Author: iCraze
 Maintainer: iCraze
 Description: Fix BetterSettings Header Bug On iOS 13-14.
+
+Package: com.dave1482.powerapp
+Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Name: PowerApp
+Version: 6.0
+Architecture: iphoneos-arm
+Description: Reboot, Shutdown, Respring, go into Safemode
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Author: Dave1482 <dave1482@dave1482.com>
+Section: Utilities
+Depiction: https://powerapp.dave1482.com/
+Icon: file:///Applications/PowerApp.app/Icon-60.png
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
+
+Package: com.dave1482.powerapp
+Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Name: PowerApp
+Version: 6.0
+Architecture: iphoneos-arm
+Description: Reboot, Shutdown, Respring, go into Safemode
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Author: Dave1482 <dave1482@dave1482.com>
+Section: Utilities
+Depiction: https://powerapp.dave1482.com/
+Icon: file:///Applications/PowerApp.app/Icon-60.png
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
+
+Package: beta.simalary.romanpad
+Name: RomanPad
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware(>=13.0)
+Conflicts: beta.simalary.romanpad-beta
+Replaces: beta.simalary.romanpad-beta
+Installed-Size: 320
+Author: Simalary (Chris) <19harperc@gmail.com>
+Maintainer: Simalary (Chris) <19harperc@gmail.com>
+Description: Change number buttons to Roman numerals.
+
+Package: com.gilshahar7.exacttime
+Name: ExactTime
+Version: 2.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Installed-Size: 1160
+Author: gilshahar7
+Maintainer: gilshahar7
+Description: Shows the exact time of notifications, messages, calls and emails.
+
+Package: com.mrgcgamer.colormenotifs
+Name: ColorMeNotifs
+Version: 1.5.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker (>= 0.0.14)
+Installed-Size: 1728
+Author: MrGcGamer
+Maintainer: MrGcGamer
+Description: Bring colors to your notifications!
+
+Package: com.muirey03.cr4shed
+Name: Cr4shed
+Version: 4.2.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.muirey03.libmryipc, com.cokepokes.libnotifications (>= 0.2-2), cy+cpu.arm64 | cy+cpu.arm64e, firmware (>= 9.0), ws.hbang.common (>= 1.11)
+Installed-Size: 1856
+Author: Muirey03
+Maintainer: Muirey03
+Description: A modern crash reporter for iOS
+
+Package: com.rileytestut.altdaemon
+Name: AltDaemon
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Maintainer: Riley Testut
+Author: Riley Testut
+Homepage: https://altstore.io
+Section: System
+
+Package: com.tomaszpoliszuk.applibrarycontroller
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Replaces: com.tomaszpoliszuk.applibrarydisabler
+Provides: com.tomaszpoliszuk.applibrarydisabler
+Conflicts: com.tomaszpoliszuk.applibrarydisabler
+Name: App Library Controller
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Control App Library
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarycontrollerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarycontrollerDp
+Installed-Size: 393
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/AppLibraryControllerSettings.bundle/icons/AppLibraryController@3x.png
+
+Package: com.tomaszpoliszuk.applibrarycontroller
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Replaces: com.tomaszpoliszuk.applibrarydisabler
+Provides: com.tomaszpoliszuk.applibrarydisabler
+Conflicts: com.tomaszpoliszuk.applibrarydisabler
+Name: App Library Controller
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Control App Library
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarycontrollerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarycontrollerDp
+Installed-Size: 393
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/AppLibraryControllerSettings.bundle/icons/AppLibraryController@3x.png
+
+Package: me.tomt000.fluidtabs
+Name: FluidTabs
+Version: 1.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 480
+Author: TomT000
+Maintainer: TomT000
+Description: Swipe between tabs.
+
+Package: org.cydia.kiimo.respringmodule
+Version: 1.1.4
+Section: Supports iOS 14.x
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware(>= 11.0)
+Architecture: iphoneos-arm
+Installed-Size: 169
+Name: RespringModule
+Author: ARWeb <aggesoft@icloud.com>
+Sponsor: kiiimo.org <http://kiiimo.org>
+Icon: file:///Library/ControlCenter/Bundles/RespringModule.bundle/SettingsIcon@3x.png
+Tag: purpose::extension
+
+Package: org.cydia.kiimo.respringmodule
+Version: 1.1.4
+Section: Supports iOS 14.x
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware(>= 11.0)
+Architecture: iphoneos-arm
+Installed-Size: 169
+Name: RespringModule
+Author: ARWeb <aggesoft@icloud.com>
+Sponsor: kiiimo.org <http://kiiimo.org>
+Icon: file:///Library/ControlCenter/Bundles/RespringModule.bundle/SettingsIcon@3x.png
+Tag: purpose::extension
