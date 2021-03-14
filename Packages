@@ -112,3 +112,14 @@ Installed-Size: 136
 Author: iCraze (iVosey)
 Maintainer: iCraze
 Description: Fix BetterSettings Header Bug On iOS 13.
+
+Package: com.level3tjg.centeredlargetitles
+Name: CenteredLargeTitles
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Self explanatory
+Maintainer: level3tjg (iVosey)
+Author: level3tjg
+Section: Tweaks (Settings)
+Version: 1.0.4
+Installed-Size: 136
