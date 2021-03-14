@@ -39,7 +39,7 @@ Insert the following code in the `head` section of your pages:
 
 *Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
 # Add to Cydia
-[Link](cydia://url/https://cydia.saurik.com/api/share#?source=https://ivosey.github.io/CyVoseyRepo/)
+[CyVoseyRepo! ](cydia://url/https://cydia.saurik.com/api/share#?source=https://ivosey.github.io/CyVoseyRepo/)
 ## Header 2
 ### Header 3
 
