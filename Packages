@@ -218,3 +218,20 @@ Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
 Section: Tweaks (save)
 Version: 1.0.7
 Installed-Size: 324
+
+Package: com.ethanrdoesmc.dawn
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
+Name: Dawn
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Customize dark and light mode. Dark elements in light mode and vice versa.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dawnDp
+Installed-Size: 554
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks (CC Toggle)
+dev: ethanrdoesmc
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/DawnSettings.bundle/icon@2x.png
