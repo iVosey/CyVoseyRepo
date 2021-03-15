@@ -467,3 +467,21 @@ Author: ARWeb <aggesoft@icloud.com>
 Sponsor: kiiimo.org <http://kiiimo.org>
 Icon: file:///Library/ControlCenter/Bundles/RespringModule.bundle/SettingsIcon@3x.png
 Tag: purpose::extension
+
+Package: io.github.ivosey.cyder
+Name: cyder
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts:
+Replaces: com.creaturecoding.cyder
+Priority: optional
+Architecture: iphoneos-arm
+Description: gives Cydia a facelift!
+Maintainer: CyVoseyRepo <iVosey@hotmail.com>
+Author: CyVoseyRepo <iVosey@hotmail.com>
+Section: Tweaks
+dev: CreatureSurvive <iVosey@hotmail.com>
+Homepage: https://ivosey.github.io/CyVoseyRepo/
+Depiction: https://creaturecoding.com/?page=depiction&id=cyder
+Icon:
+Version: 0.1-3b
+Installed-Size: 164
