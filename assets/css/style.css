@@ -9,21 +9,12 @@
 # General
 --------------------------------------------------------------*/
 @media (prefers-color-scheme: dark) {
+
   body {
   font-family: "Open Sans", sans-serif;
     background: #6c757d;
   color: #444444;
 }
-}
-
-@media (prefers-color-scheme: light) {
-  body {
-  font-family: "Open Sans", sans-serif;
-    background: #6c757d;
-  color: #000;
-}
-}
-
 a {
   color: #ef6603;
   text-decoration: none;
@@ -37,6 +28,22 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
+
+}
+
+@media (prefers-color-scheme: light) {
+
+
+  body {
+  font-family: "Open Sans", sans-serif;
+    background: #6c757d;
+  color: #000;
+}
+
+
+}
+
+
 
 /*--------------------------------------------------------------
 # Back to top button
