@@ -16,7 +16,7 @@
   color: #444444;
 }
 a {
-  color: #fff;
+  color: #f8f8f8;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #000;
+  background: #f8f8f8;
   color: #fff;
 }
 
