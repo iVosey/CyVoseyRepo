@@ -8,29 +8,17 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
+  body {
   font-family: "Open Sans", sans-serif;
     background: #6c757d;
   color: #444444;
-} else {
-@media (prefers-color-scheme: light) {
-font-family: "Open Sans", sans-serif;
-  background: #6c757d;
-color: #444444;
 }
 }
 
 a {
-    @media (prefers-color-scheme: dark) {
   color: #ef6603;
   text-decoration: none;
-} else {
-    @media (prefers-color-scheme: light) {
-      color: #ef6603;
-      text-decoration: none;
-}
-
 }
 
 a:hover {
