@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 /* end */
-} else @media (prefers-color-scheme: light) {
+} else {
   body {
   font-family: "Open Sans", sans-serif;
     background: #000000;
