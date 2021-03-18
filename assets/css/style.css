@@ -8,122 +8,35 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-@media (prefers-color-scheme: dark) {
-  body {
+body {
+  @media (prefers-color-scheme: dark) {
   font-family: "Open Sans", sans-serif;
     background: #6c757d;
   color: #444444;
+} else {
+@media (prefers-color-scheme: light) {
+font-family: "Open Sans", sans-serif;
+  background: #6c757d;
+color: #444444;
 }
+}
+
 a {
+    @media (prefers-color-scheme: dark) {
   color: #ef6603;
   text-decoration: none;
+} else {
+    @media (prefers-color-scheme: light) {
+      color: #ef6603;
+      text-decoration: none;
+}
+
 }
 
 a:hover {
-  color: #000;
+  color: #fc8129;
   text-decoration: none;
 }
-
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
-#header {
-  height: 70px;
-  transition: all 0.5s;
-  z-index: 997;
-  transition: all 0.5s;
-  background: rgba(42, 44, 57, 0.9);
-}
-
-#header.header-transparent {
-  background: transparent;
-}
-
-#header.header-scrolled {
-  background: rgba(42, 44, 57, 0.9);
-}
-
-#header .logo h1 {
-  font-size: 28px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 700;
-  letter-spacing: 1px;
-}
-
-#header .logo h1 a, #header .logo h1 a:hover {
-  color: #fff;
-  text-decoration: none;
-}
-
-#header .logo img {
-  padding: 0;
-  margin: 0;
-  max-height: 40px;
-}
-
-/* END */
-} else @media (prefers-color-scheme: light){
-  body {
-  font-family: "Open Sans", sans-serif;
-    background: #000000;
-  color: #444444;
-}
-a {
-  color: #ef6603;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #The fff;
-  text-decoration: none;
-}
-
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
-#header {
-  height: 70px;
-  transition: all 0.5s;
-  z-index: 997;
-  transition: all 0.5s;
-  background: rgba(42, 44, 57, 0.9);
-}
-
-#header.header-transparent {
-  background: transparent;
-}
-
-#header.header-scrolled {
-  background: rgba(42, 44, 57, 0.9);
-}
-
-#header .logo h1 {
-  font-size: 28px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 700;
-  letter-spacing: 1px;
-}
-
-#header .logo h1 a, #header .logo h1 a:hover {
-  color: #000;
-  text-decoration: none;
-}
-
-#header .logo img {
-  padding: 0;
-  margin: 0;
-  max-height: 40px;
-}
-
-
-/* END */
-}
-
-
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
@@ -169,6 +82,45 @@ h1, h2, h3, h4, h5, h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  height: 70px;
+  transition: all 0.5s;
+  z-index: 997;
+  transition: all 0.5s;
+  background: rgba(42, 44, 57, 0.9);
+}
+
+#header.header-transparent {
+  background: transparent;
+}
+
+#header.header-scrolled {
+  background: rgba(42, 44, 57, 0.9);
+}
+
+#header .logo h1 {
+  font-size: 28px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+#header .logo h1 a, #header .logo h1 a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+#header .logo img {
+  padding: 0;
+  margin: 0;
+  max-height: 40px;
 }
 
 /*--------------------------------------------------------------
