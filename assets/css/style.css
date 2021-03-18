@@ -64,7 +64,7 @@ a:hover {
 }
 
 /* END */
-} else {
+} else @media (prefers-color-scheme: light){
   body {
   font-family: "Open Sans", sans-serif;
     background: #000000;
