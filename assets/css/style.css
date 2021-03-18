@@ -9,9 +9,17 @@
 # General
 --------------------------------------------------------------*/
 body {
+  @media (prefers-color-scheme: dark) {
   font-family: "Open Sans", sans-serif;
     background: #6c757d;
   color: #444444;
+}
+} else {
+  @media (prefers-color-scheme: light) {
+  font-family: "Open Sans", sans-serif;
+    background: #000000;
+  color: #444444;
+}
 }
 
 a {
