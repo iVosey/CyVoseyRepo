@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 
   body {
   font-family: "Open Sans", sans-serif;
-    background: #6c757d;
+    background: #f8f8f8;
   color: #000;
 }
 a {
@@ -124,7 +124,7 @@ a {
 }
 
 a:hover {
-  color: #fff;
+  color: #f8f8f8;
   text-decoration: none;
 }
 
