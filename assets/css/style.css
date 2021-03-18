@@ -16,6 +16,14 @@
 }
 }
 
+@media (prefers-color-scheme: light) {
+  body {
+  font-family: "Open Sans", sans-serif;
+    background: #6c757d;
+  color: #000;
+}
+}
+
 a {
   color: #ef6603;
   text-decoration: none;
