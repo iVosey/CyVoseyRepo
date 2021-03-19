@@ -427,16 +427,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .pricing .btn-buy:hover {
-  background: #fc8129;
+  background: #c11919;
 }
 
 .pricing .featured {
-  border: 2px solid #ef6603;
+  border: 2px solid #c11919;
 }
 
 .pricing .featured h3 {
   color: #fff;
-  background: #000;
+  background: #c11919;
 }
 
 .pricing .advanced {
@@ -448,7 +448,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #f8f8f8;
+  background: #c11919;
   color: #fff;
 }
 
