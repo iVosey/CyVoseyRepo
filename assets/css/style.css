@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #fff;
+  color: #6c757d;
   line-height: 1;
 }
 .about .content .btn-learn-more {
@@ -326,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 5px;
   transition: 0.3s;
   line-height: 1;
-  color: #fff;
+  color: #6c757d;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
@@ -335,7 +335,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .about .content .btn-learn-more:hover {
   background: #ef6603;
-  color: #fff;
+  color: #6c757d;
   text-decoration: none;
 }
 
